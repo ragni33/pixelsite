@@ -36,3 +36,84 @@
     transform: rotate(360deg);
   }
 }
+
+.techpartner{
+text-align: center;
+margin-top: 2%;
+margin: 2%;
+}
+
+.techpartner h1{
+  color: red;
+  
+  }
+  
+.techpartner p{
+  text-align: justify;
+  }
+
+  .cookieImg{
+    text-align: center;
+  }
+
+.Logos-section, .reviews{
+justify-content: center;
+width: 100%;
+margin-top: 2%;
+}
+.technology-partners h2{
+  color: red;
+  text-align: center;
+  text-decoration: underline;
+  font-weight: 300px;
+}
+.company-logos img{
+  width: 300px;
+  height: 200px;
+  margin: 4%;
+
+}
+
+
+
+
+
+footer {
+  
+  color: #555;
+  font-size: 14px;
+}
+
+
+footer p {
+  margin-bottom: 5px;
+}
+
+footer ul {
+  margin-bottom: 10px;
+}
+
+footer li {
+  margin-bottom: 5px;
+}
+
+
+@media (max-width: 768px) {
+  .aboutus {
+    max-width: 100%;
+  }
+}
+
+
+@media (max-width: 767px) {
+  footer h4 {
+    font-size: 16px;
+  }
+}
+
+
+
+
+
+
+
