@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/pixelsite/static/css/main.661bdd19.css",
+    "main.js": "/pixelsite/static/js/main.0f5ebf01.js",
+    "static/js/787.9454b02b.chunk.js": "/pixelsite/static/js/787.9454b02b.chunk.js",
+    "static/media/clip3.jpg": "/pixelsite/static/media/clip3.b9fa83abd5e68c0a6160.jpg",
+    "static/media/tech1.jpeg": "/pixelsite/static/media/tech1.8e7f9b7d1c623845c30f.jpeg",
+    "static/media/blog3.jpg": "/pixelsite/static/media/blog3.b3bd462868a43d65fdd8.jpg",
+    "static/media/seo.jpg": "/pixelsite/static/media/seo.d5612b5319092291664a.jpg",
+    "static/media/socialmedia.png": "/pixelsite/static/media/socialmedia.82a70144cffd02d62389.png",
+    "static/media/aboutus.jpg": "/pixelsite/static/media/aboutus.7cf9f62845b8d7f25e45.jpg",
+    "static/media/blog4.jpg": "/pixelsite/static/media/blog4.0b0fbf73af25e1672ad7.jpg",
+    "static/media/cloud.jpg": "/pixelsite/static/media/cloud.3c268661916bb1e98dcf.jpg",
+    "static/media/blog5.jpg": "/pixelsite/static/media/blog5.c8cd6c9cbfea12f9ad1d.jpg",
+    "static/media/blog2.jpg": "/pixelsite/static/media/blog2.aaef5de99507f393b62e.jpg",
+    "static/media/webdesign.jpg": "/pixelsite/static/media/webdesign.59a3797ae069c4f26ed4.jpg",
+    "static/media/tech2.jpg": "/pixelsite/static/media/tech2.8117c817c5052a3af5a7.jpg",
+    "static/media/tech3.jpg": "/pixelsite/static/media/tech3.e35499fd33b5788712a8.jpg",
+    "static/media/iot.jpg": "/pixelsite/static/media/iot.cfeac4a6cac79d97bf65.jpg",
+    "static/media/clip1.jpg": "/pixelsite/static/media/clip1.8cbec06f4a840316843d.jpg",
+    "static/media/blog1.jpg": "/pixelsite/static/media/blog1.778cd4d6f1c7868c6fe5.jpg",
+    "static/media/cookie.jpg": "/pixelsite/static/media/cookie.347a287ddb0288600beb.jpg",
+    "static/media/clip2.jpg": "/pixelsite/static/media/clip2.c1f6b7122e0564dfc523.jpg",
+    "static/media/blog6.png": "/pixelsite/static/media/blog6.07de941e1e13f2628b9d.png",
+    "static/media/design1.jpg": "/pixelsite/static/media/design1.f6e4724e5947a47cf89e.jpg",
+    "index.html": "/pixelsite/index.html",
+    "main.661bdd19.css.map": "/pixelsite/static/css/main.661bdd19.css.map",
+    "main.0f5ebf01.js.map": "/pixelsite/static/js/main.0f5ebf01.js.map",
+    "787.9454b02b.chunk.js.map": "/pixelsite/static/js/787.9454b02b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.661bdd19.css",
+    "static/js/main.0f5ebf01.js"
+  ]
+}
